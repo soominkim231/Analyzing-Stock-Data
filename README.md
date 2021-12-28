@@ -1,4 +1,4 @@
-# Analyzing-Stock-Data
+# Stock Data Analysis
 Extracting (Webscraping) and Visualizing Stock Data
 
 ## Content
